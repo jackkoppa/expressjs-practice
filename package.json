@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-practice",
+  "version": "1.0.0",
+  "description": "Practice Express app @ Rokkincat w/ MKEJS",
+  "main": "1-hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackkoppa/expressjs-practice.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jackkoppa/expressjs-practice/issues"
+  },
+  "homepage": "https://github.com/jackkoppa/expressjs-practice#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
