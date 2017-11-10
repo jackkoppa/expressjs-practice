@@ -1,2 +1,2 @@
 # expressjs-practice
-Sample Express app, created @ Rokkincat w/ MKEJS
+Sample Express programs, created @ Rokkincat w/ [MKEJS](https://www.meetup.com/milwaukeejs/), using [expressworks](https://github.com/azat-co/expressworks) challenges
